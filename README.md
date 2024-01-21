@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThePoNGz
-- 👀 I’m interested in 
+- 👀 I’m interested in coding, videogames
 - 🌱 I’m currently learning Python & C++
 - 📫 How to reach me "dragonx799@gmail.com"
 <!---
